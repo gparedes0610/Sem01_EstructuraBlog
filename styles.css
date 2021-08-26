@@ -1,0 +1,35 @@
+.header {
+  background-color: aquamarine;
+  height: 150px;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 1rem;
+  height: 800px;
+}
+
+.nav {
+  background-color: yellowgreen;
+}
+
+.articulo {
+  background-color: greenyellow;
+}
+.seccion__articulo {
+  background-color: plum;
+}
+
+.aside {
+  background-color: orange;
+}
+
+.aside__seccion {
+  background-color: orangered;
+}
+
+.footer {
+  background-color: aquamarine;
+  height: 150px;
+}
